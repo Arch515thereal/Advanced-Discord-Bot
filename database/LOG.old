@@ -1,0 +1,11 @@
+2020/11/10-15:18:36.376 3ab4 Recovering log #35
+2020/11/10-15:18:36.377 3ab4 Level-0 table #38: started
+2020/11/10-15:18:36.385 3ab4 Level-0 table #38: 1408 bytes OK
+2020/11/10-15:18:36.405 3ab4 Delete type=0 #35
+2020/11/10-15:18:36.438 3ab4 Delete type=3 #33
+2020/11/10-19:31:17.606 6308 Compacting 1@0 + 1@1 files
+2020/11/10-19:31:17.615 6308 Generated table #40@0: 42 keys, 1037 bytes
+2020/11/10-19:31:17.616 6308 Compacted 1@0 + 1@1 files => 1037 bytes
+2020/11/10-19:31:17.618 6308 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/11/10-19:31:17.622 6308 Delete type=2 #36
+2020/11/10-19:31:17.660 6308 Delete type=2 #38
