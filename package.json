@@ -1,7 +1,7 @@
 {
   "name": "confax",
   "version": "1.0.0",
-  "description": "[[My Website]](https://mitsuzi.xyz/)",
+  "description": "Made By Spexz",
   "main": "index.js",
   "dependencies": {
     "canvas": "^2.6.1",
